@@ -1,1 +1,1 @@
-# prophecy-transpiler
+# Prophecy Migration Copilot
